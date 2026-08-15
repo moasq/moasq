@@ -21,6 +21,7 @@ trust, and keep running.
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[Agentic Ship](https://github.com/moasq/agentic-ship)** | Helps coding agents ship production products with durable contracts, cross-host skills, resumable service connections, and deterministic verification gates. | Node.js · TypeScript · Playwright |
 | **[LeadShoot](https://github.com/moasq/leadshoot)** | Evidence-first local-business research. Qualifies leads without disguising unknowns as facts; ships as a CLI, REST API, MCP server, and live map. | Python · SQLite · FastAPI · MCP |
 | **[Production SaaS Starter](https://github.com/moasq/production-saas-starter)** | A production-oriented B2B SaaS foundation built as a modular monolith with clear boundaries and portable infrastructure. | Go · Next.js · PostgreSQL |
 | **[Nanowave](https://github.com/moasq/nanowave)** | Generates, compiles, and runs SwiftUI apps from natural-language instructions through Claude Code. | Go · SwiftUI · Claude Code |
